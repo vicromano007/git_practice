@@ -1,4 +1,13 @@
-Hello Git and GitHub!
+Instructions for uploading to GitHub:
 
-This is a test to see if I can commit.
-2nd test to test commands.
+
+Make changes and save.
+
+git add README.txt
+
+git commit -m "description of change"
+
+git push -u origin main
+
+
+
